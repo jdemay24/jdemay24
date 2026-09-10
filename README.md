@@ -23,5 +23,5 @@ https://jdemay24.pythonanywhere.com/
 
 ### 📫 Connect With Me
 
-* **LinkedIn:** Click [here](https://www.linkedin.com/in/justin-demay-779108224)
+* **LinkedIn:** Click [Here](https://www.linkedin.com/in/justin-demay-779108224)
 * **Email:** jdemay24@bw.edu
